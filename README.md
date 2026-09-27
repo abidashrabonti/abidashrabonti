@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Abida Hossain Shrabonti
 
-<!--
-**abidashrabonti/abidashrabonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Engineering Student**  
+💻 **Focus Areas:** Data Science | Machine Learning | Python Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on Machine Learning and Computer Vision projects.
+- 🌱 Learning Deep Learning, Neural Networks, and Advanced Data Analysis.
+- 💬 Ask me about **Python,  Data Structures, Machine Learning**.
+- 📬 How to reach me: `abidashrabonti924@gmail.com`
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C, C++
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, OpenCV
+- **Tools & Platforms:** Git, GitHub, Tinkercad, Microwind
+
+---
+
+### 📊 GitHub Stats
+![Abida's GitHub stats](https://github-readme-stats.vercel.app/api?username=abidashrabonti&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidashrabonti&layout=compact&theme=radial)
