@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1a73e8&fontColor=ffffff&height=240&section=header&text=Abida%20Hossain%20Shrabonti&fontSize=42&fontAlignY=40&desc=Data%20Science%20%26%20Machine%20Learning%20Researcher&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1A73E8&center=true&vCenter=true&width=650&lines=B.Sc.+in+Computer+Science+%26+Engineering;Machine+Learning+%7C+Computer+Vision;Neural+Networks+%7C+Deep+Learning;Building+data-driven+solutions+with+Python" alt="Typing SVG" />
