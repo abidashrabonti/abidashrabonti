@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1a73e8&fontColor=ffffff&height=230&section=header&text=Abida%20Hossain%20Shrabonti&fontSize=38&fontAlignY=38&desc=Data%20Science%20%26%20Machine%20Learning%20Researcher&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1a73e8&fontColor=ffffff&height=240&section=header&text=Abida%20Hossain%20Shrabonti&fontSize=42&fontAlignY=40&desc=Data%20Science%20%26%20Machine%20Learning%20Researcher&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -34,15 +34,6 @@
 | **Languages** | ![Python](https://img.shields.io/badge/Python-1a73e8?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-0d47a1?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-1a73e8?style=for-the-badge&logo=cplusplus&logoColor=white) |
 | **Machine Learning & Data** | ![Pandas](https://img.shields.io/badge/Pandas-0d47a1?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1a73e8?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d47a1?style=for-the-badge&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-1a73e8?style=for-the-badge&logo=opencv&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-0d47a1?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-1a73e8?style=for-the-badge&logo=github&logoColor=white) ![Tinkercad](https://img.shields.io/badge/Tinkercad-0d47a1?style=for-the-badge) ![Microwind](https://img.shields.io/badge/Microwind-1a73e8?style=for-the-badge) |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abidashrabonti&show_icons=true&theme=default&title_color=1a73e8&icon_color=1a73e8&hide_border=true&bg_color=ffffff" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidashrabonti&layout=compact&title_color=1a73e8&hide_border=true&bg_color=ffffff" alt="Top Languages" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
