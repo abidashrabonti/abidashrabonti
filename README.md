@@ -12,6 +12,10 @@
 
 ---
 
+<p align="right">
+  <img src="https://images.rawpixel.com/image_png_800/2020/09/pf-s73-pm-0322.png" width="300" />
+</p>
+
 ### 🔬 About Me & Research Focus
 - 🎓 **Academic Status:** Pursuing B.Sc. in Computer Science & Engineering.
 - 🔬 **Research Interests:** Machine Learning, Computer Vision, Neural Networks, and Deep Learning Applications.
