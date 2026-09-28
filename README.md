@@ -1,21 +1,37 @@
-# Hi, I'm Abida Hossain Shrabonti
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a73e8&fontColor=ffffff&height=210&section=header&text=Abida%20Hossain%20Shrabonti&fontSize=36&animation=fadeIn" width="100%" />
+</p>
 
-A passionate Computer Science & Engineering student | Data Science, Machine Learning & Computer Vision Specialist from Bangladesh
+<p align="center">
+  <b>Computer Science & Engineering Student | Data Science & Machine Learning Researcher</b>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=abidashrabonti&color=blue&style=flat)
-
-<p align="right">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-4489824-3728469.png" width="350" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abidashrabonti&color=1a73e8&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🔭 Currently Working On:
-* Machine Learning models & Computer Vision applications
+<p align="right">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-data-analyst-working-on-data-visualization-illustration-download-in-svg-png-gif-file-formats--analytics-processing-researcher-woman-programmer-pack-business-illustrations-8636402.png" width="340" />
+</p>
+
+### 🔬 About Me & Research Focus
+- 🎓 **Academic Status:** Pursuing B.Sc. in Computer Science & Engineering.
+- 🔬 **Research Interests:** Machine Learning, Computer Vision, Neural Networks, and Deep Learning Applications.
+- 💻 **Focus:** Developing data-driven solutions and conducting research using Python.
+- 📬 **Reach Me:** `abidashrabonti924@gmail.com`
 
 ---
 
-### 🌐 Connect with Me:
+### 🛠️ Technical Skills
+- **Languages:** Python, C, C++
+- **Machine Learning & Data:** Pandas, NumPy, Scikit-learn, OpenCV
+- **Tools & Platforms:** Git, GitHub, Tinkercad, Microwind
+
+---
+
+### 🌐 Connect With Me
 
 [<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/abida-shrabonti-010939323)
 [<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:abidashrabonti924@gmail.com)
@@ -23,11 +39,10 @@ A passionate Computer Science & Engineering student | Data Science, Machine Lear
 
 ---
 
-### 📂 My Projects & Work:
-* Check out my open-source repositories and research-backed data science work on my profile!
+### 📊 GitHub Analytics
 
----
-
-### 📬 Contact Me:
-* **Email:** abidashrabonti924@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abidashrabonti&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidashrabonti&layout=compact&theme=nord&hide_border=true" width="48%" />
+</p>
 
