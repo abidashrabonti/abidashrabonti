@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abidashrabonti&color=1a73e8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/B.Sc.-CSE-1a73e8?style=for-the-badge" alt="CSE" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%26%20CV-0d47a1?style=for-the-badge" alt="Focus" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a73e8&fontColor=ffffff&height=230&section=header&text=Abida%20Hossain%20Shrabonti&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%" />
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
